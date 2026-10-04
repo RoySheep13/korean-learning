@@ -1,0 +1,5 @@
+streamlit
+pandas
+konlpy
+JPype1
+deep-translator
